@@ -2,7 +2,7 @@
     Uses the ben182/laravel-ab package via a fork to support up to Laravel 10
 </h2>
 
-<p>Unfortunately, the <a href="https://github.com/ben182/laravel-ab">ben182/laravel-ab</a>a> package only supports up to Laravel 7 at the moment of writing. This package supports up to Laravel 10.</p>
+<p>Unfortunately, the <a href="https://github.com/ben182/laravel-ab">ben182/laravel-ab</a> package only supports up to Laravel 7 at the moment of writing. This package supports up to Laravel 10.</p>
 
 ## New Installation
 
