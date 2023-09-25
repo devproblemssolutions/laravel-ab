@@ -1,8 +1,8 @@
 <h2>
-    Uses the ben182/laravel-ab package via a fork to support up to Laravel 8
+    Uses the ben182/laravel-ab package via a fork to support up to Laravel 10
 </h2>
 
-<p>Unfortunately, the ben182/laravel-ab package only supports up to Laravel 7 at the moment of writing. This package supports up to Laravel 8.</p>
+<p>Unfortunately, the ben182/laravel-ab package only supports up to Laravel 7 at the moment of writing. This package supports up to Laravel 10.</p>
 
 ## New Installation
 
